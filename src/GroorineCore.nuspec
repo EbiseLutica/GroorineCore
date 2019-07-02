@@ -1,0 +1,14 @@
+<?xml version="1.0"?>
+<package >
+  <metadata>
+    <id>GroorineCore</id>
+    <version>1.0.0</version>
+    <title>GroorineCore</title>
+    <authors>Xeltica</authors>
+    <owners>Xeltica</owners>
+    <license type="expression">MIT</license>
+    <projectUrl>https://github.com/xeltica/groorinecore</projectUrl>
+    <requireLicenseAcceptance>false</requireLicenseAcceptance>
+    <copyright>(C)2014-2019 Xeltica</copyright>
+  </metadata>
+</package>
